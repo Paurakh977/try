@@ -1,1 +1,1 @@
-no xyz ok
+print("ok ok")
